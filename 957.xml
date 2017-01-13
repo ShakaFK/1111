@@ -1,0 +1,131 @@
+<TdsScormData xmlns="http://tempuri.org/TdsScormData.xsd">
+	<Product>
+		<DiscipName>Математика (5 кл. БП)</DiscipName>
+		<Author>Белюсенко Е.В.</Author>
+		<Description>Урок 52. Деление</Description>
+		<IsPT1>false</IsPT1>
+		<IsPT2>false</IsPT2>
+		<Typesetter>Белюсенко Е.В.</Typesetter>
+		<Manager>Косенко С.В., тел. 41-22</Manager>
+		<DiscipCode>9205</DiscipCode>
+		<TPCode>9205.02.01;ГТ.01;1</TPCode>
+		<QuestionsCount>1</QuestionsCount>
+		<UnderEdition>Высотиной В.Г., канд. тех наук</UnderEdition>
+		<Reviewer xml:space="preserve"> </Reviewer>
+		<TPID>321021</TPID></Product>
+	<Node>
+		<NodeID>313e9efb-06ac-4ac2-8eba-3582adb81e2e</NodeID>
+		<NodeTypeID>de3eb198-3f1e-4ab1-ba9d-dbf5eede3d7a</NodeTypeID>
+		<Caption>Тренинговые задания</Caption>
+	</Node>
+	<Node>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<NodeTypeID>ca88929b-6d70-4e0e-bd04-a41458c0462f</NodeTypeID>
+		<ParentNodeID>313e9efb-06ac-4ac2-8eba-3582adb81e2e</ParentNodeID>
+		<Caption>Задание</Caption>
+		<OrderNumber>1</OrderNumber>
+	</Node>
+	<NodeType>
+		<NodeTypeID>de3eb198-3f1e-4ab1-ba9d-dbf5eede3d7a</NodeTypeID>
+		<TypeName>группа</TypeName>
+	</NodeType>
+	<NodeType>
+		<NodeTypeID>ca88929b-6d70-4e0e-bd04-a41458c0462f</NodeTypeID>
+		<TypeName>3</TypeName>
+	</NodeType>
+	<Answer>
+		<AnswerID>13565e01-ce1f-4051-9458-a016bf3b4ce9</AnswerID>
+		<AnswerText1>Деление</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>действие, с помощью которого по произведению и одному из множителей находят другой множитель</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>b8c60397-ab70-454b-94e8-cf14244e4dca</AnswerID>
+		<AnswerText1>Делимое</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>число, которое делят</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>e522ccfc-ef83-4f6e-adc9-b980c47cc9f4</AnswerID>
+		<AnswerText1>Делитель</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>число, на которое делят</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>4743f032-6a2a-4c6d-841b-67dd41f01d77</AnswerID>
+		<AnswerText1>Неизвестное делимое</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>результат умножения частного на делитель</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>731536da-a8c7-4890-b2f2-d1dd5627efb1</AnswerID>
+		<AnswerText1>Неизвестное делимое при делении с остатком</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>результат умножения неполного частного на делитель + остаток</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>ace019a6-332c-47d6-8674-5252c801b266</AnswerID>
+		<AnswerText1>Неизвестный делитель</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>результат деления делимого на частное</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>64fb2e02-e1bf-4060-a304-545602df3d32</AnswerID>
+		<AnswerText1>Неизвестный множитель</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>результат деления произведения на известный множитель</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>da8f72e8-fffa-4270-8fb2-b8b51ef39d8b</AnswerID>
+		<AnswerText1>Остаток меньше делителя</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>делимое не делится на делитель целиком</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>5ef94b47-1f65-4686-8e51-0065fafdd17e</AnswerID>
+		<AnswerText1>Остаток равен нулю</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>делимое делится на делитель целиком</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>b6e4c1cb-eff7-4254-947b-0815cde111b6</AnswerID>
+		<AnswerText1>Разделить число &lt;I&gt;а&lt;/I&gt; с остатком на число &lt;I&gt;b&lt;/I&gt;</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>&lt;SUB&gt;&lt;IMG src="images/image001.gif" width=79 height=19&gt;&lt;/SUB&gt;и &lt;SUB&gt;&lt;IMG src="images/image002.gif" width=39 height=19&gt;&lt;/SUB&gt;</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>fb46dc01-4f7b-4ee5-9b49-8e9215fe2b91</AnswerID>
+		<AnswerText1>Свойство единицы</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>&lt;P class=MsoNormal&gt;при делении любого числа на единицу получается это же число;&lt;/P&gt;
+&lt;P class=MsoNormal&gt;при делении числа на это же число получается единица&lt;/P&gt;</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>5ed588d9-fdaf-4c26-876f-9eeec769db8d</AnswerID>
+		<AnswerText1>Свойство нуля</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>при делении нуля на натуральное число частное равно нулю</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>234dca97-a1d7-4348-859d-74a0acf4f1f8</AnswerID>
+		<AnswerText1>Частное</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>результат деления</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>ab03b7c2-1de2-44e6-aebf-b43e4701360d</AnswerID>
+		<AnswerText1>Частное показывает</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>результат, который определяет во сколько раз делимое больше, чем делитель</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>9c46e583-6963-4eb7-a5d6-a56602db7ddc</AnswerID>
+		<AnswerText1>Частное при делении числа &lt;I&gt;с&lt;/I&gt; на число &lt;I&gt;b&lt;/I&gt;</AnswerText1>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+		<AnswerText2>&lt;SUB&gt;&lt;IMG src="images/image003.gif" width=56 height=19&gt;&lt;/SUB&gt;, если &lt;SUB&gt;&lt;IMG src="images/image004.gif" width=55 height=19&gt;&lt;/SUB&gt;</AnswerText2>
+	</Answer>
+	<Question>
+		<QuestionText>Установите соответствие между терминами и их определениями</QuestionText>
+		<NodeID>df25dcf6-170a-4c32-99e2-501625af7ef0</NodeID>
+	</Question>
+</TdsScormData>

@@ -1,0 +1,2003 @@
+<TdsScormData xmlns="http://tempuri.org/TdsScormData.xsd">
+	<Product>
+		<DiscipName>География (7 класс. БП)</DiscipName>
+		<Author>Шадрунова Е.А., учитель высшей категории</Author>
+		<Description>Урок 68. Повторение темы Океаны</Description>
+		<IsPT1>true</IsPT1>
+		<IsPT2>false</IsPT2>
+		<Typesetter>Белюсенко Е.В., тел. 41-23</Typesetter>
+		<DiscipCode>9236</DiscipCode>
+		<TPCode>9236.04.01;Т-Т.03;1</TPCode>
+		<QuestionsCount>59</QuestionsCount>
+		<UnderEdition>Шульгиной О.В., д-ра ист. наук; канд. геогр. наук, проф.</UnderEdition>
+		<Reviewer xml:space="preserve"> </Reviewer>
+		<TPID>325968</TPID></Product>
+	<Node>
+		<NodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</NodeID>
+		<NodeTypeID>60752831-35cd-43d0-9da7-4adb3158e8e5</NodeTypeID>
+		<Caption>Тестовые задания</Caption>
+	</Node>
+	<Node>
+		<NodeID>0589dd12-0235-43c3-aa1e-5f6e600eb7e9</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>1</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>f110ccfb-b73c-483c-9c58-95e899cdaaeb</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>2</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>ae3c82a5-9992-4c0c-bf60-f7ae8c9dd9e2</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>3</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>8c70494f-791e-43dd-946b-595c61960c16</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>4</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>342691f4-800a-4cbc-87b7-38a1ce55aacc</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>5</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>b3f83b10-b7e0-41fe-952b-148af7b6ac11</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>6</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>42699245-fcd7-40bd-a742-6e3d70939f1e</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>7</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>14b22633-907e-4be2-b749-a29a90a2064e</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>8</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>0abfcf5e-04cd-4a9e-aac8-bda50f97f314</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>9</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>6abba163-4ca7-4bf0-bbbb-af79ee7b931a</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>10</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>658a1d19-55bb-459a-997b-78abe15f73b9</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>11</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>bdb68776-4fe3-4421-b2ef-e04764deb1b5</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>12</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>ede2c8ec-8589-47c1-935b-5b9816cb65da</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>13</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>419930b8-09a6-4e60-8b17-4a41a186cd6b</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>14</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>6f5a2c7b-cc8e-4a59-b997-8e6160689397</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>15</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>2f9820ef-2112-4348-b845-97d8b603689f</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>16</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>ebae5d51-5d29-4dcb-9132-43623542dc58</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>17</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>51587527-1ea6-40c7-8c3e-e51fe45e7a29</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>18</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>8515b26d-ee12-4566-898c-e8e32241299b</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>19</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>e46fbbaa-b1ee-497d-8a58-dd19804ab16d</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>20</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>52f0bfe3-3c82-4228-9ab6-54d50bae0a49</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>21</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>655efd8c-1d21-4aeb-86f9-28c52c412796</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>22</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>38a3541e-95ae-487a-ad88-c294df53415e</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>23</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>06a35d49-4ef5-4fe2-aeb1-8f748dadaacc</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>24</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>3950e638-26a3-4cea-ad68-7798e9219fe6</NodeID>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>25</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>132cbfdb-9e83-4327-8921-bba747ce840e</NodeID>
+		<NodeTypeID>914b2136-9cb0-4c64-99be-040ad7bbe3c5</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>26</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>30b84314-acb1-44ec-9391-8c91e56bf915</NodeID>
+		<NodeTypeID>914b2136-9cb0-4c64-99be-040ad7bbe3c5</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>27</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>e468c649-ec8f-4e81-93b2-0fa6baaadb5c</NodeID>
+		<NodeTypeID>914b2136-9cb0-4c64-99be-040ad7bbe3c5</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>28</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>5c9e2265-76a1-4163-8e9e-4214e3909819</NodeID>
+		<NodeTypeID>914b2136-9cb0-4c64-99be-040ad7bbe3c5</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>29</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>0c5d1103-9464-423c-8cb6-19dd087d5821</NodeID>
+		<NodeTypeID>153f8c08-6a3c-43d9-b431-a5cfc05a4ae8</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>30</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>d8b04600-363f-43bc-a513-94f278dc404b</NodeID>
+		<NodeTypeID>153f8c08-6a3c-43d9-b431-a5cfc05a4ae8</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>31</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>88af47f2-e309-41f1-8f30-0e318cca1b6a</NodeID>
+		<NodeTypeID>153f8c08-6a3c-43d9-b431-a5cfc05a4ae8</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>32</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>1cee5f18-08e7-42b4-863d-f73c1221c77f</NodeID>
+		<NodeTypeID>153f8c08-6a3c-43d9-b431-a5cfc05a4ae8</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>33</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>f538491e-b4d0-4868-b788-3d2972fbb2d5</NodeID>
+		<NodeTypeID>153f8c08-6a3c-43d9-b431-a5cfc05a4ae8</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>34</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>e25b7bc2-6dfa-4a29-bc16-4182dd475cb0</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>35</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>1392980a-bd2c-45ca-b78e-c48f494dcbf4</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>36</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>18c542b4-1459-49eb-ae4c-d27be91196ee</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>37</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>7d5969b0-7602-460c-b33e-2a80ba7bc033</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>38</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>e5999ed8-d269-4c27-b132-22b659be06a8</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>39</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>a30c5f5c-e108-48ab-9a68-b353f9da65b4</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>40</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>465d42cc-a83c-4401-8e83-fc3661244bc6</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>41</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>6cb9a54e-820f-4a8e-8f12-b63881140728</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>42</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>cb8f0045-0ee7-460a-95a7-1015e3cec145</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>43</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>cbf9deaf-9b33-4e11-9b51-7eead5661915</NodeID>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>44</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>d6a2af76-a843-47ba-aa63-11b2958f3831</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>45</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>6883bc19-0ad4-4757-a978-a664053c6951</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>46</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>9d59c157-4a65-418b-8550-8aa5ff0ec9b5</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>47</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>7411d1ca-fa64-4663-bf93-d16c5dec98ba</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>48</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>724afe75-ffe4-406d-92c4-8ae7e1da3084</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>49</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>59fcbd49-1d8c-49e8-9419-87aa4550ae7e</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>50</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>6aee145d-7b0c-450c-bbdf-55366f7999a4</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>51</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>72ee2405-0839-474f-ac2a-2724d938a053</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>52</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>c8d2ddf8-2b72-47f1-8223-ace06153e530</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>53</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>e0479db6-0dca-498a-a5b2-521798a30b44</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>54</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>1122b6a4-7583-4c56-94c7-713bc926def4</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>55</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>1c972b3a-d7e3-43f5-8f57-b774d9f91538</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>56</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>3f3c0feb-f6a8-4e9f-8463-d99812092a92</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>57</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>0d83a3c9-d0a9-416f-a90c-d2854860502b</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>58</OrderNumber>
+	</Node>
+	<Node>
+		<NodeID>fc198473-9b6f-4531-9c3d-22848fa0c460</NodeID>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<ParentNodeID>564ab499-f6ea-40bd-9e7f-6ef22174c09c</ParentNodeID>
+		<Weight>1</Weight>
+		<Caption>Задание</Caption>
+		<OrderNumber>59</OrderNumber>
+	</Node>
+	<NodeType>
+		<NodeTypeID>60752831-35cd-43d0-9da7-4adb3158e8e5</NodeTypeID>
+		<TypeName>группа</TypeName>
+	</NodeType>
+	<NodeType>
+		<NodeTypeID>90039179-7f79-48a7-b465-af7f9a3f5cd2</NodeTypeID>
+		<TypeName>1</TypeName>
+	</NodeType>
+	<NodeType>
+		<NodeTypeID>914b2136-9cb0-4c64-99be-040ad7bbe3c5</NodeTypeID>
+		<TypeName>2</TypeName>
+	</NodeType>
+	<NodeType>
+		<NodeTypeID>153f8c08-6a3c-43d9-b431-a5cfc05a4ae8</NodeTypeID>
+		<TypeName>3</TypeName>
+	</NodeType>
+	<NodeType>
+		<NodeTypeID>e9df049c-a8d3-49cb-aa06-a6f9b724a482</NodeTypeID>
+		<TypeName>4</TypeName>
+	</NodeType>
+	<NodeType>
+		<NodeTypeID>a2b0faf4-0b8d-42df-a2aa-228e20f7ea29</NodeTypeID>
+		<TypeName>6</TypeName>
+	</NodeType>
+	<Answer>
+		<AnswerID>f4d96c88-3ee4-4a52-8260-7558179fb842</AnswerID>
+		<AnswerText>муссоны</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>0589dd12-0235-43c3-aa1e-5f6e600eb7e9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>5967af29-c525-4ad9-8893-d59367617428</AnswerID>
+		<AnswerText>пассаты </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0589dd12-0235-43c3-aa1e-5f6e600eb7e9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b19b9d8f-02af-4cb1-bd07-b36a0fe2a23e</AnswerID>
+		<AnswerText>тайфуны </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0589dd12-0235-43c3-aa1e-5f6e600eb7e9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a6f663bc-98a2-4a05-b183-ad1b513a74db</AnswerID>
+		<AnswerText>ураганы </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0589dd12-0235-43c3-aa1e-5f6e600eb7e9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>481ecd19-3a24-480f-9aec-315f9d03dd1a</AnswerID>
+		<AnswerText>пассат</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>f110ccfb-b73c-483c-9c58-95e899cdaaeb</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>33ba77e3-63e3-468f-bbb8-5e2759fd08fa</AnswerID>
+		<AnswerText>шквал</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>f110ccfb-b73c-483c-9c58-95e899cdaaeb</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b0ca74ba-426e-4c6d-8ea1-be7a5a4eaa88</AnswerID>
+		<AnswerText>бриз </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>f110ccfb-b73c-483c-9c58-95e899cdaaeb</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b8e9df0c-18af-4fb0-bd26-8662ab40f1ce</AnswerID>
+		<AnswerText>муссон </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>f110ccfb-b73c-483c-9c58-95e899cdaaeb</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2698f8ac-3557-4d58-bd11-865e3b377ce4</AnswerID>
+		<AnswerText>планктон</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>ae3c82a5-9992-4c0c-bf60-f7ae8c9dd9e2</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bfec26c3-98a3-49b5-8042-1a2a67637a42</AnswerID>
+		<AnswerText>фитопланктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ae3c82a5-9992-4c0c-bf60-f7ae8c9dd9e2</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>5a44c1e9-94fe-4cbf-a110-196e3e806a74</AnswerID>
+		<AnswerText>зоопланктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ae3c82a5-9992-4c0c-bf60-f7ae8c9dd9e2</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>025fa376-d786-4e86-b282-273a065de742</AnswerID>
+		<AnswerText>нектон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ae3c82a5-9992-4c0c-bf60-f7ae8c9dd9e2</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e688e191-fd2b-4dfc-bc4b-604f8bf21b23</AnswerID>
+		<AnswerText>фитопланктон</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>8c70494f-791e-43dd-946b-595c61960c16</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>79ecda8e-58e2-4a42-b90d-7ec23c537a2b</AnswerID>
+		<AnswerText>зоопланктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>8c70494f-791e-43dd-946b-595c61960c16</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f9fcea97-751a-48bd-8a91-97a107d87ff3</AnswerID>
+		<AnswerText>нектон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>8c70494f-791e-43dd-946b-595c61960c16</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>15362430-631c-4b46-8c2e-a9f721399480</AnswerID>
+		<AnswerText>планктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>8c70494f-791e-43dd-946b-595c61960c16</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f2e40ae3-2f4e-4f60-8cb3-58ac102d168b</AnswerID>
+		<AnswerText>зоопланктон</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>342691f4-800a-4cbc-87b7-38a1ce55aacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>70b7c13a-7df1-42ec-85da-1b627d95cd4a</AnswerID>
+		<AnswerText>нектон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>342691f4-800a-4cbc-87b7-38a1ce55aacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4cc882f2-4b69-4e5e-8868-baa110b1b986</AnswerID>
+		<AnswerText>планктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>342691f4-800a-4cbc-87b7-38a1ce55aacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3d78fdd6-ed06-4467-8ade-f2bc7904e6ee</AnswerID>
+		<AnswerText>фитопланктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>342691f4-800a-4cbc-87b7-38a1ce55aacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>18bb6c68-d075-4996-8b79-828c3b7f6891</AnswerID>
+		<AnswerText>нектон</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>b3f83b10-b7e0-41fe-952b-148af7b6ac11</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>25c4acb8-7960-4e9f-9b37-6e3fe8182f7d</AnswerID>
+		<AnswerText>планктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>b3f83b10-b7e0-41fe-952b-148af7b6ac11</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>73e9c1f0-c5f1-44a8-bb33-d367226632db</AnswerID>
+		<AnswerText>фитопланктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>b3f83b10-b7e0-41fe-952b-148af7b6ac11</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0e839ded-898a-44e0-8a8c-22aa2910d742</AnswerID>
+		<AnswerText>бентос</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>b3f83b10-b7e0-41fe-952b-148af7b6ac11</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3e71f72b-9b0e-4f6b-a452-59867a825c68</AnswerID>
+		<AnswerText>бентос</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>42699245-fcd7-40bd-a742-6e3d70939f1e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2359d3e8-faf6-4fc1-ba3b-4db8e9ab4fdf</AnswerID>
+		<AnswerText>нектон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>42699245-fcd7-40bd-a742-6e3d70939f1e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>ae4949c9-a001-4b5c-8770-3f6824d7ce76</AnswerID>
+		<AnswerText>планктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>42699245-fcd7-40bd-a742-6e3d70939f1e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bdca3405-5e80-4f5a-8f40-ae8806fdf8bd</AnswerID>
+		<AnswerText>зоопланктон</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>42699245-fcd7-40bd-a742-6e3d70939f1e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>694208bb-f146-444c-aecd-d5b3aebf4bbf</AnswerID>
+		<AnswerText>Тихого </AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>14b22633-907e-4be2-b749-a29a90a2064e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>20e00e3f-d509-4bfc-afa5-2ec9ce49884a</AnswerID>
+		<AnswerText>Атлантического </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>14b22633-907e-4be2-b749-a29a90a2064e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8db8a452-ad01-45a1-aaf2-260e8fffd16e</AnswerID>
+		<AnswerText>Индийского </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>14b22633-907e-4be2-b749-a29a90a2064e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>65654a09-a521-4bfb-b37e-df326aa88790</AnswerID>
+		<AnswerText>Северного Ледовитого</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>14b22633-907e-4be2-b749-a29a90a2064e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>67ae0147-a443-4792-9fbc-9ea09f32e1f8</AnswerID>
+		<AnswerText>Соленость </AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>0abfcf5e-04cd-4a9e-aac8-bda50f97f314</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>35f6e415-b0e6-43bc-92b6-b12daec6d0cb</AnswerID>
+		<AnswerText>Пресность </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0abfcf5e-04cd-4a9e-aac8-bda50f97f314</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>5375d707-1233-411d-a9a5-2cb54bceb6f7</AnswerID>
+		<AnswerText>Загрязненность </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0abfcf5e-04cd-4a9e-aac8-bda50f97f314</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>d25779e4-93ca-4a96-8c35-5565567b5f03</AnswerID>
+		<AnswerText>Нейтральность </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0abfcf5e-04cd-4a9e-aac8-bda50f97f314</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>5aa6cb47-6627-4aa8-bd17-4ca50e11ba22</AnswerID>
+		<AnswerText>Акватория</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>6abba163-4ca7-4bf0-bbbb-af79ee7b931a</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e0b6594c-efc7-41bb-bef5-b9f2f37b6c9c</AnswerID>
+		<AnswerText>Взморье</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6abba163-4ca7-4bf0-bbbb-af79ee7b931a</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0e0e1ced-f626-4dc2-9b48-eda596b54409</AnswerID>
+		<AnswerText>Подводная долина </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6abba163-4ca7-4bf0-bbbb-af79ee7b931a</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e1ee33e0-c2d4-4ef5-8eae-285196de2bfe</AnswerID>
+		<AnswerText>Шельф</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6abba163-4ca7-4bf0-bbbb-af79ee7b931a</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e9eefe55-9b7a-427c-b1b0-ab677d3cb4d6</AnswerID>
+		<AnswerText>Атлантический</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>658a1d19-55bb-459a-997b-78abe15f73b9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0c578c18-8a25-455b-b60b-b076fd78aa3e</AnswerID>
+		<AnswerText>Тихий</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>658a1d19-55bb-459a-997b-78abe15f73b9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f3aafb56-9df1-4c3b-8828-a7add8c22ac6</AnswerID>
+		<AnswerText>Индийский</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>658a1d19-55bb-459a-997b-78abe15f73b9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4667ff87-d0b2-4925-91cc-5c616e338bee</AnswerID>
+		<AnswerText>Северный Ледовитый</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>658a1d19-55bb-459a-997b-78abe15f73b9</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8a2c1a5a-bf0a-447b-89ac-fcd041feaf9d</AnswerID>
+		<AnswerText>покровный ледник</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>bdb68776-4fe3-4421-b2ef-e04764deb1b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>cdae9733-d3ee-4cf7-843c-7bfce60d0860</AnswerID>
+		<AnswerText>торос</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>bdb68776-4fe3-4421-b2ef-e04764deb1b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>dab742f2-bbc0-4e93-a056-5b7eb419f053</AnswerID>
+		<AnswerText>айсберг</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>bdb68776-4fe3-4421-b2ef-e04764deb1b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3462d204-b101-4958-a544-61a9fdff99f3</AnswerID>
+		<AnswerText>морской лед</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>bdb68776-4fe3-4421-b2ef-e04764deb1b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8a7f45e8-976f-4c0f-88b6-24ffb783fcb4</AnswerID>
+		<AnswerText>Северного Ледовитого</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>ede2c8ec-8589-47c1-935b-5b9816cb65da</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9050bac4-c4c8-48ee-aeaa-0ffc56926f27</AnswerID>
+		<AnswerText>Тихого </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ede2c8ec-8589-47c1-935b-5b9816cb65da</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c77b744d-4b67-4692-a14e-5da1b30518cd</AnswerID>
+		<AnswerText>Атлантического </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ede2c8ec-8589-47c1-935b-5b9816cb65da</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e17c798a-00de-4b5c-bf0d-3dc27ea44e41</AnswerID>
+		<AnswerText>Индийского </AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ede2c8ec-8589-47c1-935b-5b9816cb65da</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>64f12b01-f832-483d-8f69-fc81086d0d0d</AnswerID>
+		<AnswerText>торосы</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>419930b8-09a6-4e60-8b17-4a41a186cd6b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f530af60-f7b0-4438-91b6-4ad742daf2fc</AnswerID>
+		<AnswerText>айсберги</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>419930b8-09a6-4e60-8b17-4a41a186cd6b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>7f3d630e-44d0-423e-9f5c-c05963330024</AnswerID>
+		<AnswerText>покровный ледник</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>419930b8-09a6-4e60-8b17-4a41a186cd6b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>742f4b08-57ef-4d19-a2ba-8c5f85acc8ff</AnswerID>
+		<AnswerText>шельф</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>419930b8-09a6-4e60-8b17-4a41a186cd6b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>ed98a9f7-5a9b-4126-809f-d257cb75d4c3</AnswerID>
+		<AnswerText>Поверхностные</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>6f5a2c7b-cc8e-4a59-b997-8e6160689397</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>5fc1a28a-777f-4db3-ae35-9ed74551b930</AnswerID>
+		<AnswerText>Промежуточные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6f5a2c7b-cc8e-4a59-b997-8e6160689397</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>1b94c52f-c6b6-439f-99a0-990b00092d2d</AnswerID>
+		<AnswerText>Глубинные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6f5a2c7b-cc8e-4a59-b997-8e6160689397</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>123d5e82-2311-4e1c-8fd4-8535da9acf9a</AnswerID>
+		<AnswerText>Придонные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6f5a2c7b-cc8e-4a59-b997-8e6160689397</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4aff2037-e10a-4c13-938e-61938ea7b1e6</AnswerID>
+		<AnswerText>промежуточные</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>2f9820ef-2112-4348-b845-97d8b603689f</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2f34978f-e90f-4c54-80e9-5ee28fe81aaf</AnswerID>
+		<AnswerText>глубинные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>2f9820ef-2112-4348-b845-97d8b603689f</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9ef8d581-94dd-4232-9ea3-80d36ecdc9d3</AnswerID>
+		<AnswerText>придонные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>2f9820ef-2112-4348-b845-97d8b603689f</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2af262a3-6a3d-43ce-a9d2-14c692b86b04</AnswerID>
+		<AnswerText>поверхностные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>2f9820ef-2112-4348-b845-97d8b603689f</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>6b98c1a6-7679-4f63-ac30-a5b7366a17f1</AnswerID>
+		<AnswerText>Глубинные</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>ebae5d51-5d29-4dcb-9132-43623542dc58</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3e7e947e-9d9f-4773-8abf-ebe137470b83</AnswerID>
+		<AnswerText>Придонные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ebae5d51-5d29-4dcb-9132-43623542dc58</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9a9fe3ac-c48f-4fe0-9f2a-ecc77885ecda</AnswerID>
+		<AnswerText>Поверхностные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ebae5d51-5d29-4dcb-9132-43623542dc58</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f154b1f2-0165-4d3e-aec7-2b0ded9bd365</AnswerID>
+		<AnswerText>Промежуточные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>ebae5d51-5d29-4dcb-9132-43623542dc58</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bcbb4918-d493-42c9-bef9-fa52397d315a</AnswerID>
+		<AnswerText>Придонные</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>51587527-1ea6-40c7-8c3e-e51fe45e7a29</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c3eec149-a6b5-4048-aec1-216b14bcc1e1</AnswerID>
+		<AnswerText>Поверхностные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>51587527-1ea6-40c7-8c3e-e51fe45e7a29</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>41aad26b-84b4-4dda-a6a1-83b4b84241f1</AnswerID>
+		<AnswerText>Промежуточные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>51587527-1ea6-40c7-8c3e-e51fe45e7a29</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a0dab958-a622-41de-b285-3c0752c42f2a</AnswerID>
+		<AnswerText>Глубинные</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>51587527-1ea6-40c7-8c3e-e51fe45e7a29</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>287c9f4a-6b8d-469d-9906-fa112180dfd8</AnswerID>
+		<AnswerText>Тихий</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>8515b26d-ee12-4566-898c-e8e32241299b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>599e3114-3f11-45a8-8206-43c23f7639a1</AnswerID>
+		<AnswerText>Атлантический</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>8515b26d-ee12-4566-898c-e8e32241299b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>85d97a25-f387-47f0-8942-e786fd887ee1</AnswerID>
+		<AnswerText>Северный Ледовитый</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>8515b26d-ee12-4566-898c-e8e32241299b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>84f8cc0e-37fe-4140-8134-0fa98a9742b8</AnswerID>
+		<AnswerText>Индийский</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>8515b26d-ee12-4566-898c-e8e32241299b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>1da9da6e-f6f7-4cba-a4b7-1b1550ae75c0</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;Северный полярный&lt;/SPAN&gt;</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>e46fbbaa-b1ee-497d-8a58-dd19804ab16d</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b4ce0d1d-5bba-4076-9742-01ccb36d3305</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;Северный субтропический&lt;/SPAN&gt;</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e46fbbaa-b1ee-497d-8a58-dd19804ab16d</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>dc05a980-1c7c-48d1-be19-d8dfff8a1920</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;Северный тропический&lt;/SPAN&gt;</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e46fbbaa-b1ee-497d-8a58-dd19804ab16d</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>10e7834b-19aa-4798-9d00-44c31c311413</AnswerID>
+		<AnswerText>Экваториальный</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e46fbbaa-b1ee-497d-8a58-dd19804ab16d</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9e303e5f-7a2b-4e3c-b720-bbeb0d050b78</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;Северный субтропический&lt;/SPAN&gt;</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>52f0bfe3-3c82-4228-9ab6-54d50bae0a49</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>7053c82b-a9b8-4dc0-ae47-6d3708b71697</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;Северный тропический&lt;/SPAN&gt;</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>52f0bfe3-3c82-4228-9ab6-54d50bae0a49</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>38fa5af1-9e5a-4ea4-a6b2-e7bd7cce1ddf</AnswerID>
+		<AnswerText>Экваториальный</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>52f0bfe3-3c82-4228-9ab6-54d50bae0a49</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c4eebbfc-ea21-4a1a-ac20-ddf889bf6eaf</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;Северный полярный&lt;/SPAN&gt;</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>52f0bfe3-3c82-4228-9ab6-54d50bae0a49</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>edd45be3-43ad-4317-9027-8ced97dec842</AnswerID>
+		<AnswerText>Северный Ледовитый</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>655efd8c-1d21-4aeb-86f9-28c52c412796</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e885916d-f61d-4e63-8815-c6ff19656de6</AnswerID>
+		<AnswerText>Атлантический</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>655efd8c-1d21-4aeb-86f9-28c52c412796</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bceca06c-343b-41cb-a832-f386c58be93e</AnswerID>
+		<AnswerText>Тихий</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>655efd8c-1d21-4aeb-86f9-28c52c412796</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f81d5abc-4caf-4a8c-83f7-26c6a866ce58</AnswerID>
+		<AnswerText>Индийский</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>655efd8c-1d21-4aeb-86f9-28c52c412796</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bf6f2cb5-932a-452b-9313-639137d41ed8</AnswerID>
+		<AnswerText>морской лед</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>38a3541e-95ae-487a-ad88-c294df53415e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>844d02a0-1dfc-4b82-aa55-3025f82607dc</AnswerID>
+		<AnswerText>торос</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>38a3541e-95ae-487a-ad88-c294df53415e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>60bf8b6e-b601-4d73-bbcf-27832702784c</AnswerID>
+		<AnswerText>шельф</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>38a3541e-95ae-487a-ad88-c294df53415e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b98c2f93-5a25-4c81-a698-af5bd64fce7a</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;айсберг&lt;/SPAN&gt;</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>38a3541e-95ae-487a-ad88-c294df53415e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b5dd5395-9d00-4fc1-a1b1-7f650671182d</AnswerID>
+		<AnswerText>&lt;SPAN style="COLOR: black"&gt;айсберг&lt;/SPAN&gt;</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>06a35d49-4ef5-4fe2-aeb1-8f748dadaacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c6f99de9-a07d-4607-9755-7ae0689a16fb</AnswerID>
+		<AnswerText>морской лед</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>06a35d49-4ef5-4fe2-aeb1-8f748dadaacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>cbe9bb11-5cf7-4c21-a1bb-0a6c5f53a70d</AnswerID>
+		<AnswerText>торос</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>06a35d49-4ef5-4fe2-aeb1-8f748dadaacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>237ec619-2ae1-42e1-9558-ec6d1c426c8a</AnswerID>
+		<AnswerText>шельф</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>06a35d49-4ef5-4fe2-aeb1-8f748dadaacc</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>84e5968f-44a9-4034-8a8f-16f5eb8ac37c</AnswerID>
+		<AnswerText>Ньюфаундленд</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>3950e638-26a3-4cea-ad68-7798e9219fe6</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8288033e-e484-4fc3-8ea6-23e30685995b</AnswerID>
+		<AnswerText>Гренландия</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>3950e638-26a3-4cea-ad68-7798e9219fe6</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c550b02a-71a1-4af0-b48c-c6146aa7dd2b</AnswerID>
+		<AnswerText>Баффинова Земля</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>3950e638-26a3-4cea-ad68-7798e9219fe6</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a6de07b1-07c0-47e3-b9a8-84f33a36edc7</AnswerID>
+		<AnswerText>Виктория</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>3950e638-26a3-4cea-ad68-7798e9219fe6</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>6ddc7351-08b5-4ec1-b240-06dec5f77c11</AnswerID>
+		<AnswerText>Мадагаскар</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>132cbfdb-9e83-4327-8921-bba747ce840e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0b41a2a6-7360-41f4-9078-c6497a8481b3</AnswerID>
+		<AnswerText>Шри-Ланка</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>132cbfdb-9e83-4327-8921-bba747ce840e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>6d698bb7-416f-4ad7-b5d6-1e7b0dbbe3e1</AnswerID>
+		<AnswerText>Новая Гвинея</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>132cbfdb-9e83-4327-8921-bba747ce840e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>6223a953-7ff1-4ea3-b270-7dda73df24a5</AnswerID>
+		<AnswerText>Тайвань</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>132cbfdb-9e83-4327-8921-bba747ce840e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2b4cee56-cf5c-4c43-9209-a798655705af</AnswerID>
+		<AnswerText>Сахалин, Тайвань</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>30b84314-acb1-44ec-9391-8c91e56bf915</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bd16151c-4a98-4be2-ac79-39403f4010c2</AnswerID>
+		<AnswerText>Японские, Филиппинские острова</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>30b84314-acb1-44ec-9391-8c91e56bf915</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b67239cb-1504-4bfa-be3e-6db28fa3d53e</AnswerID>
+		<AnswerText>Новая Гвинея, Новая Зеландия</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>30b84314-acb1-44ec-9391-8c91e56bf915</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>7c810c17-bdb3-4b28-bc8f-a83374e3c8d3</AnswerID>
+		<AnswerText>Гавайи, Галаппагос</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>30b84314-acb1-44ec-9391-8c91e56bf915</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0120b643-91bc-43cb-a6b9-dff378e86e42</AnswerID>
+		<AnswerText>Балтийское море</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>e468c649-ec8f-4e81-93b2-0fa6baaadb5c</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>da7a7068-82b0-4952-a581-a6a0a18f55c7</AnswerID>
+		<AnswerText>Черное море </AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>e468c649-ec8f-4e81-93b2-0fa6baaadb5c</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a27b1e54-d896-40f2-9ac7-30fa27baed17</AnswerID>
+		<AnswerText>Азовское море</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>e468c649-ec8f-4e81-93b2-0fa6baaadb5c</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>034e5857-1c3f-44cc-9321-665cff60d601</AnswerID>
+		<AnswerText>Баренцево море</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e468c649-ec8f-4e81-93b2-0fa6baaadb5c</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>981915b2-16fe-45f8-a034-afeb55c83af9</AnswerID>
+		<AnswerText>Гренландия</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>5c9e2265-76a1-4163-8e9e-4214e3909819</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>22bd9941-292f-41d4-b167-f24e085a87dd</AnswerID>
+		<AnswerText>Баффинова Земля</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>5c9e2265-76a1-4163-8e9e-4214e3909819</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4c33d259-78f1-4118-aac3-6fc391a365c2</AnswerID>
+		<AnswerText>Виктория, Элсмир</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>5c9e2265-76a1-4163-8e9e-4214e3909819</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>eed06947-d996-4ca1-a537-bf9cd9658702</AnswerID>
+		<AnswerText>Новая Гвинея, Новая Зеландия</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>5c9e2265-76a1-4163-8e9e-4214e3909819</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>cc73213c-5d20-46fe-a2f2-80fec5210d7a</AnswerID>
+		<NodeID>0c5d1103-9464-423c-8cb6-19dd087d5821</NodeID>
+		<AnswerText1>Зоопланктон</AnswerText1>
+		<AnswerText2>совокупность населяющих толщу воды животных, пассивно переносимых течениями</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>0ac7bdbe-c89b-4cda-827c-e0a26626dff1</AnswerID>
+		<NodeID>0c5d1103-9464-423c-8cb6-19dd087d5821</NodeID>
+		<AnswerText1>Бентос</AnswerText1>
+		<AnswerText2>совокупность организмов, обитающих на грунте и в грунте морских и материковых водоёмов</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>191e096a-fdac-4a94-802f-c9c8221cf889</AnswerID>
+		<NodeID>0c5d1103-9464-423c-8cb6-19dd087d5821</NodeID>
+		<AnswerText1>Нектон</AnswerText1>
+		<AnswerText2>совокупность активно плавающих пелагических животных, способных противостоять силе течения и перемещаться на значительные расстояния</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>77c53b11-4d9c-4be1-b858-d18f47ee1543</AnswerID>
+		<NodeID>d8b04600-363f-43bc-a513-94f278dc404b</NodeID>
+		<AnswerText1>Пассат</AnswerText1>
+		<AnswerText2>воздушное течение в тропических широтах океанов, сравнительно устойчивое в течение всего года</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>bbc7ffb0-777b-48b0-9e32-72563c0d521a</AnswerID>
+		<NodeID>d8b04600-363f-43bc-a513-94f278dc404b</NodeID>
+		<AnswerText1>Муссон</AnswerText1>
+		<AnswerText2>устойчивый ветер, периодически меняющий свое направление</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>aae80b50-8dc1-4ea9-a316-b38f956e5bdb</AnswerID>
+		<NodeID>d8b04600-363f-43bc-a513-94f278dc404b</NodeID>
+		<AnswerText1>Тайфун</AnswerText1>
+		<AnswerText2>разновидность тропического циклона, которая типична для северо-западной части Тихого океана</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>91ba319c-af6c-41a2-844c-ae7a9fc39ea3</AnswerID>
+		<NodeID>88af47f2-e309-41f1-8f30-0e318cca1b6a</NodeID>
+		<AnswerText1>Покровный ледник</AnswerText1>
+		<AnswerText2>ледник, формирующийся в высоких широтах, где земная поверхность расположена выше снеговой линии</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>9491d282-4628-46b2-adfa-8822757e24be</AnswerID>
+		<NodeID>88af47f2-e309-41f1-8f30-0e318cca1b6a</NodeID>
+		<AnswerText1>&lt;SPAN style="COLOR: black"&gt;Торосы&lt;/SPAN&gt;</AnswerText1>
+		<AnswerText2>&lt;SPAN style="COLOR: black"&gt;нагромождение обломков льда до 10-20 метров в высоту, которые образуются в результате сжатия ледяного покрова&lt;/SPAN&gt;</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>93761b24-daa5-464a-8894-411a4e5ae67e</AnswerID>
+		<NodeID>88af47f2-e309-41f1-8f30-0e318cca1b6a</NodeID>
+		<AnswerText1>&lt;SPAN style="COLOR: black"&gt;Айсберг&lt;/SPAN&gt;</AnswerText1>
+		<AnswerText2>&lt;SPAN style="COLOR: black"&gt;крупный свободно плавающий кусок льда в океане или море&lt;/SPAN&gt;</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>11de96d5-6599-4074-a9d9-57120cc33e93</AnswerID>
+		<NodeID>1cee5f18-08e7-42b4-863d-f73c1221c77f</NodeID>
+		<AnswerText1>Баренцево море</AnswerText1>
+		<AnswerText2>окраинное море Северного Ледовитого океана</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>bf3f6d2b-4eab-4b82-b807-4e38b01faa59</AnswerID>
+		<NodeID>1cee5f18-08e7-42b4-863d-f73c1221c77f</NodeID>
+		<AnswerText1>Белое море</AnswerText1>
+		<AnswerText2>внутреннее море Северного Ледовитого океана</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>bc10f944-973a-4177-9e0d-6752788701f4</AnswerID>
+		<NodeID>1cee5f18-08e7-42b4-863d-f73c1221c77f</NodeID>
+		<AnswerText1>Балтийское море</AnswerText1>
+		<AnswerText2>внутреннее море Атлантического океана</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>b9df4194-6c8a-46dc-9d6b-8630f07241c0</AnswerID>
+		<NodeID>f538491e-b4d0-4868-b788-3d2972fbb2d5</NodeID>
+		<AnswerText1>придонные водные массы</AnswerText1>
+		<AnswerText2>занимают зону Мирового океана ниже 5000 м и имеют постоянную соленость, очень большую плотность, а горизонтальное их перемещение медленнее, чем вертикальное</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>22fe3e5e-2885-4cce-92ea-df18d0128be2</AnswerID>
+		<NodeID>f538491e-b4d0-4868-b788-3d2972fbb2d5</NodeID>
+		<AnswerText1>поверхностные водные массы</AnswerText1>
+		<AnswerText2>формируются под воздействием атмосферных процессов и притока пресных вод с материка до глубины 200-250 м.</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>e7c95da8-7a21-4145-a8a8-db2d30d9edaf</AnswerID>
+		<NodeID>f538491e-b4d0-4868-b788-3d2972fbb2d5</NodeID>
+		<AnswerText1>глубинные водные массы</AnswerText1>
+		<AnswerText2>формируются в результате перемешивания поверхностных и промежуточных, полярных и тропических водных масс, и их нижняя граница 1200-5000 м</AnswerText2>
+	</Answer>
+	<Answer>
+		<AnswerID>788bd310-ced2-4698-a312-daf8e3ac7212</AnswerID>
+		<AnswerText>Планктон</AnswerText>
+		<Position>0</Position>
+		<NodeID>e25b7bc2-6dfa-4a29-bc16-4182dd475cb0</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c0261414-5794-45d6-80fe-4ac560b75c17</AnswerID>
+		<AnswerText>Бриз</AnswerText>
+		<Position>0</Position>
+		<NodeID>1392980a-bd2c-45ca-b78e-c48f494dcbf4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>96fde1f3-1ae9-46da-9381-1c0d3fe22f67</AnswerID>
+		<AnswerText>Тихого</AnswerText>
+		<Position>0</Position>
+		<NodeID>18c542b4-1459-49eb-ae4c-d27be91196ee</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>5f4b6969-f8b2-4ecc-8cf9-2ee636359464</AnswerID>
+		<AnswerText>Апвеллинг</AnswerText>
+		<Position>0</Position>
+		<NodeID>7d5969b0-7602-460c-b33e-2a80ba7bc033</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>58a716dc-bc24-48cb-a1c3-a08a678c1207</AnswerID>
+		<AnswerText>Атлантического</AnswerText>
+		<Position>0</Position>
+		<NodeID>e5999ed8-d269-4c27-b132-22b659be06a8</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3d0be9d9-1dac-46ea-a55b-59877e406689</AnswerID>
+		<AnswerText>Северного Ледовитого</AnswerText>
+		<Position>0</Position>
+		<NodeID>a30c5f5c-e108-48ab-9a68-b353f9da65b4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>d396159f-6d12-4841-a3be-818460de01ab</AnswerID>
+		<AnswerText>водные массы</AnswerText>
+		<Position>0</Position>
+		<NodeID>465d42cc-a83c-4401-8e83-fc3661244bc6</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0f3f8786-026c-442d-8981-093ff481792d</AnswerID>
+		<AnswerText>Шельф</AnswerText>
+		<Position>0</Position>
+		<NodeID>6cb9a54e-820f-4a8e-8f12-b63881140728</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>214604dd-f600-4d5a-a4eb-e567fa507c13</AnswerID>
+		<AnswerText>Индийского</AnswerText>
+		<Position>0</Position>
+		<NodeID>cb8f0045-0ee7-460a-95a7-1015e3cec145</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>751c418f-a605-453f-986a-fb10265b2b96</AnswerID>
+		<AnswerText>Фитопланктон</AnswerText>
+		<Position>0</Position>
+		<NodeID>cbf9deaf-9b33-4e11-9b51-7eead5661915</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e2c6c5b6-54e7-40d2-aedd-27cfc8e538bd</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>d6a2af76-a843-47ba-aa63-11b2958f3831</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>6375dbee-b53c-47f2-b5e3-80a7db773d50</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>d6a2af76-a843-47ba-aa63-11b2958f3831</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a345b530-8a2e-4bb8-8de7-81bb64a5bc43</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>d6a2af76-a843-47ba-aa63-11b2958f3831</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>07d3bf49-0bc1-461f-8aa1-4c79335e3930</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>d6a2af76-a843-47ba-aa63-11b2958f3831</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8b0e2650-b08c-4d0e-a1a6-32649d29f5d9</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6883bc19-0ad4-4757-a978-a664053c6951</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3887adb1-0fe0-4e0c-8bc9-e3bbea0c8667</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6883bc19-0ad4-4757-a978-a664053c6951</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>094d789c-9381-482b-83e9-6b7298048a44</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>6883bc19-0ad4-4757-a978-a664053c6951</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>aa81423f-8760-494f-be97-1ba6e64b025e</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6883bc19-0ad4-4757-a978-a664053c6951</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a5fae93f-c611-4a3c-aac8-ae133bf93303</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>9d59c157-4a65-418b-8550-8aa5ff0ec9b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>aa34b989-aa46-4ff3-ac4b-478fd56b1b32</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>9d59c157-4a65-418b-8550-8aa5ff0ec9b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9e395953-823f-4910-a6d8-e1483410ee49</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>9d59c157-4a65-418b-8550-8aa5ff0ec9b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>6496bab3-bcd8-4a85-872c-9391fd75d0fe</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>9d59c157-4a65-418b-8550-8aa5ff0ec9b5</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>05a169b3-4201-46e2-9451-249c885556a0</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>7411d1ca-fa64-4663-bf93-d16c5dec98ba</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>53a2187c-d6bf-4f3e-8976-c2561aafde31</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>7411d1ca-fa64-4663-bf93-d16c5dec98ba</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>d80fb0fd-66ec-4e4a-93ab-4474647e9a30</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>7411d1ca-fa64-4663-bf93-d16c5dec98ba</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>0cd6db48-2513-4919-8742-e91f4dfc4726</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>7411d1ca-fa64-4663-bf93-d16c5dec98ba</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>57279cc1-5742-402c-a64b-1613d323a28d</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>724afe75-ffe4-406d-92c4-8ae7e1da3084</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>1496a4be-9e5d-4fed-a6ad-23178ef53782</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>724afe75-ffe4-406d-92c4-8ae7e1da3084</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9c141b55-38e0-4d87-bc06-9edc04bfc708</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>724afe75-ffe4-406d-92c4-8ae7e1da3084</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>d1671937-7ead-4356-880d-e08c86f1cd58</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>724afe75-ffe4-406d-92c4-8ae7e1da3084</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>919031da-aa17-4986-bc1e-f8abd50773ae</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>59fcbd49-1d8c-49e8-9419-87aa4550ae7e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8171440f-56eb-4140-8380-b7aa487410d4</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>59fcbd49-1d8c-49e8-9419-87aa4550ae7e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>8e39a11a-09b8-4d85-9dd9-ef6897c9d035</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>59fcbd49-1d8c-49e8-9419-87aa4550ae7e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2d531bf2-30d5-41da-833d-48a079f3f9c0</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>59fcbd49-1d8c-49e8-9419-87aa4550ae7e</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>3028df69-ea18-4aae-bbf9-f64067e2f1e7</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6aee145d-7b0c-450c-bbdf-55366f7999a4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>bf3d9950-f90e-436a-8806-9dca1d4e75dd</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6aee145d-7b0c-450c-bbdf-55366f7999a4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>c2aae322-a62b-44d9-9ea0-3643ffd32393</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>6aee145d-7b0c-450c-bbdf-55366f7999a4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>ea986b2b-d024-4b28-b737-8c54843d1d31</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>6aee145d-7b0c-450c-bbdf-55366f7999a4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>7de9e16c-c043-4294-bca9-41fc96901b81</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>72ee2405-0839-474f-ac2a-2724d938a053</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>73ff0c3c-8a0d-4a6f-9463-637b3e184b8f</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>72ee2405-0839-474f-ac2a-2724d938a053</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>b5cf5b1a-7a32-4ec8-8824-934e48399761</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>72ee2405-0839-474f-ac2a-2724d938a053</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4d17c88f-2ad2-4eb7-9ad8-bc62e4c6d313</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>72ee2405-0839-474f-ac2a-2724d938a053</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>97c9d6cb-3a53-45b9-b223-790fc56c22ad</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>c8d2ddf8-2b72-47f1-8223-ace06153e530</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>d84d5191-ad46-4de5-b2ab-348abbd4b1ba</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>c8d2ddf8-2b72-47f1-8223-ace06153e530</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>1fbcf48c-752e-4ee6-8abf-ea91c8ff07c7</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>c8d2ddf8-2b72-47f1-8223-ace06153e530</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>e8ed0ae1-7793-4120-991e-56ef90954f37</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>c8d2ddf8-2b72-47f1-8223-ace06153e530</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>00449b98-bc63-4bec-80cf-8ed570b8b5e9</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e0479db6-0dca-498a-a5b2-521798a30b44</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2179ac27-8002-4753-8f31-198e3f833fe0</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e0479db6-0dca-498a-a5b2-521798a30b44</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f096400b-786d-4b29-8057-f7538d13b83e</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>e0479db6-0dca-498a-a5b2-521798a30b44</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f7281d53-afca-4d96-ac86-eeab75011051</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>e0479db6-0dca-498a-a5b2-521798a30b44</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>10c75635-458c-4fea-a388-a72aa01339d2</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>1122b6a4-7583-4c56-94c7-713bc926def4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4a107269-c709-4433-a9fd-84d81bf9f065</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>1122b6a4-7583-4c56-94c7-713bc926def4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9ceabc42-ab77-4ed2-b453-96da1236d2f5</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>1122b6a4-7583-4c56-94c7-713bc926def4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>a93be411-b328-4bc9-b1f3-9bd3210bf708</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>1122b6a4-7583-4c56-94c7-713bc926def4</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>53120161-8606-4b56-b62d-98004041903e</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>1c972b3a-d7e3-43f5-8f57-b774d9f91538</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>45bacada-47ab-44e6-a4ee-7b001773fc67</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>1c972b3a-d7e3-43f5-8f57-b774d9f91538</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>afce88bb-f197-427f-b3b8-9afa512ed6e6</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>1c972b3a-d7e3-43f5-8f57-b774d9f91538</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>ab25c203-836c-4327-b71f-021c64dd63c3</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>1c972b3a-d7e3-43f5-8f57-b774d9f91538</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>59d2c876-57ce-4660-bebf-16c12a2071b2</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>3f3c0feb-f6a8-4e9f-8463-d99812092a92</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>59cbc7b0-a86d-4684-aa44-d97fadba3cfc</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>3f3c0feb-f6a8-4e9f-8463-d99812092a92</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>2753cfe4-aced-4030-898f-cf19ce2c2b78</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>3f3c0feb-f6a8-4e9f-8463-d99812092a92</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>70c88c84-9de2-49c2-b697-bba7f11b1511</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>3f3c0feb-f6a8-4e9f-8463-d99812092a92</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>09a2b89e-506a-4840-a4ae-4ac6b80e81bc</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0d83a3c9-d0a9-416f-a90c-d2854860502b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>83bd11f0-847a-45b4-a9e4-2b21208b4cf6</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0d83a3c9-d0a9-416f-a90c-d2854860502b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>f6831770-efea-468e-8081-0efc88426034</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>0d83a3c9-d0a9-416f-a90c-d2854860502b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>373292ba-3e62-4c7f-8e4f-d46f66cae0af</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>0d83a3c9-d0a9-416f-a90c-d2854860502b</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>4db98942-e7d6-46ef-a31f-c6c61eb93d38</AnswerID>
+		<AnswerText>А-да, В-да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>fc198473-9b6f-4531-9c3d-22848fa0c460</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>9fae6a12-dcae-4466-bbb7-ed21dea10be0</AnswerID>
+		<AnswerText>А- да, В- нет</AnswerText>
+		<IsRight>true</IsRight>
+		<NodeID>fc198473-9b6f-4531-9c3d-22848fa0c460</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>92ef0b6e-72d4-408e-9314-d60cbd839c2b</AnswerID>
+		<AnswerText>А- нет, В- да</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>fc198473-9b6f-4531-9c3d-22848fa0c460</NodeID>
+	</Answer>
+	<Answer>
+		<AnswerID>584ffa9e-ba39-4da0-8dd9-4d987d4a63e0</AnswerID>
+		<AnswerText>А- нет, В- нет</AnswerText>
+		<IsRight>false</IsRight>
+		<NodeID>fc198473-9b6f-4531-9c3d-22848fa0c460</NodeID>
+	</Answer>
+	<Question>
+		<QuestionText>Устойчивые ветры, периодически меняющие свое направление, – это </QuestionText>
+		<NodeID>0589dd12-0235-43c3-aa1e-5f6e600eb7e9</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Воздушное течение в тропических широтах океанов, сравнительно устойчивое в течение всего года, – это </QuestionText>
+		<NodeID>f110ccfb-b73c-483c-9c58-95e899cdaaeb</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Разнородные, в основном мелкие организмы, свободно дрейфующие в толще воды и не способные сопротивляться течению, – это </QuestionText>
+		<NodeID>ae3c82a5-9992-4c0c-bf60-f7ae8c9dd9e2</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Совокупность растительных организмов, населяющих толщу воды морских и пресных водоёмов и пассивно переносимых течением, – это </QuestionText>
+		<NodeID>8c70494f-791e-43dd-946b-595c61960c16</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Совокупность населяющих толщу воды животных, пассивно переносимых течениями, – это </QuestionText>
+		<NodeID>342691f4-800a-4cbc-87b7-38a1ce55aacc</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Совокупность активно плавающих пелагических животных, способных противостоять силе течения и перемещаться на значительные расстояния, – это </QuestionText>
+		<NodeID>b3f83b10-b7e0-41fe-952b-148af7b6ac11</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Совокупность организмов, обитающих на грунте и в грунте морских и материковых водоёмов, – это </QuestionText>
+		<NodeID>42699245-fcd7-40bd-a742-6e3d70939f1e</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Многие острова Полинезии и Микронезии – коралловые острова _____ океана</QuestionText>
+		<NodeID>14b22633-907e-4be2-b749-a29a90a2064e</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>_______ - количество граммов веществ, растворенных в 1 л (килограмме) воды </QuestionText>
+		<NodeID>0abfcf5e-04cd-4a9e-aac8-bda50f97f314</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>________ - участок водной поверхности в установленных границах района океана, моря, водохранилища или порта</QuestionText>
+		<NodeID>6abba163-4ca7-4bf0-bbbb-af79ee7b931a</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>___________ океан — второй по величине среди океанов</QuestionText>
+		<NodeID>658a1d19-55bb-459a-997b-78abe15f73b9</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Ледник, формирующийся в высоких широтах, где земная поверхность расположена выше снеговой линии, – это </QuestionText>
+		<NodeID>bdb68776-4fe3-4421-b2ef-e04764deb1b5</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Белое море, море Баффина являются внутренними морями ____________ океана</QuestionText>
+		<NodeID>ede2c8ec-8589-47c1-935b-5b9816cb65da</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Нагромождение обломков льда, до 10-20 метров в высоту, которые образуются в результате сжатия ледяного покрова, – это </QuestionText>
+		<NodeID>419930b8-09a6-4e60-8b17-4a41a186cd6b</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>___________ водные массы формируются под воздействием атмосферных процессов и притока пресных вод с материка до глубины 200-250 м.</QuestionText>
+		<NodeID>6f5a2c7b-cc8e-4a59-b997-8e6160689397</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>В тропических широтах ___________ водные массы формируются в условиях повышенного испарения и постоянного повышения солености</QuestionText>
+		<NodeID>2f9820ef-2112-4348-b845-97d8b603689f</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>___________ водные массы формируются в результате перемешивания поверхностных и промежуточных, полярных и тропических водных масс</QuestionText>
+		<NodeID>ebae5d51-5d29-4dcb-9132-43623542dc58</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>_________ водные массы занимают зону Мирового океана ниже 5000 м и имеют постоянную соленость, очень большую плотность, а горизонтальное их перемещение медленнее, чем вертикальное</QuestionText>
+		<NodeID>51587527-1ea6-40c7-8c3e-e51fe45e7a29</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>__________ океан - самый большой по площади, самый глубокий и самый древний из океанов</QuestionText>
+		<NodeID>8515b26d-ee12-4566-898c-e8e32241299b</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;SPAN style="COLOR: black"&gt;__________ пояс занимает небольшую часть Берингова и Охотского морей&lt;/SPAN&gt;</QuestionText>
+		<NodeID>e46fbbaa-b1ee-497d-8a58-dd19804ab16d</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>__________ пояс в Тихом океане выражен не так четко, как умеренный</QuestionText>
+		<NodeID>52f0bfe3-3c82-4228-9ab6-54d50bae0a49</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>__________ океан почти полностью расположен севернее Полярного круга</QuestionText>
+		<NodeID>655efd8c-1d21-4aeb-86f9-28c52c412796</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Лёд, образовавшийся в море (океане) при замерзании воды – это </QuestionText>
+		<NodeID>38a3541e-95ae-487a-ad88-c294df53415e</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Крупный свободно плавающий кусок льда в океане или море – это </QuestionText>
+		<NodeID>06a35d49-4ef5-4fe2-aeb1-8f748dadaacc</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Один из самых больших материковых островов Атлантического океана – это </QuestionText>
+		<NodeID>3950e638-26a3-4cea-ad68-7798e9219fe6</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Самые большие острова Индийского океана - </QuestionText>
+		<NodeID>132cbfdb-9e83-4327-8921-bba747ce840e</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>К материковым островам Тихого океана относятся:</QuestionText>
+		<NodeID>30b84314-acb1-44ec-9391-8c91e56bf915</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>К внутренним морям Атлантического океана относятся —</QuestionText>
+		<NodeID>e468c649-ec8f-4e81-93b2-0fa6baaadb5c</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>В Северном Ледовитом океане много материковых островов к которым относятся:</QuestionText>
+		<NodeID>5c9e2265-76a1-4163-8e9e-4214e3909819</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Укажите соответствия</QuestionText>
+		<NodeID>0c5d1103-9464-423c-8cb6-19dd087d5821</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Укажите соответствия</QuestionText>
+		<NodeID>d8b04600-363f-43bc-a513-94f278dc404b</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Укажите соответствия</QuestionText>
+		<NodeID>88af47f2-e309-41f1-8f30-0e318cca1b6a</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Укажите соответствия</QuestionText>
+		<NodeID>1cee5f18-08e7-42b4-863d-f73c1221c77f</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Укажите соответствия</QuestionText>
+		<NodeID>f538491e-b4d0-4868-b788-3d2972fbb2d5</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>_______ - разнородные, в основном мелкие организмы, свободно дрейфующие в толще воды и не способные сопротивляться течению</QuestionText>
+		<NodeID>e25b7bc2-6dfa-4a29-bc16-4182dd475cb0</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>________ — &lt;SPAN style="COLOR: black"&gt;ветер, который дует на побережье морей и больших озёр&lt;/SPAN&gt;</QuestionText>
+		<NodeID>1392980a-bd2c-45ca-b78e-c48f494dcbf4</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Сахалин - материковый остров __________ океана</QuestionText>
+		<NodeID>18c542b4-1459-49eb-ae4c-d27be91196ee</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>_______ - подъем вод из глубины водоема к поверхности</QuestionText>
+		<NodeID>7d5969b0-7602-460c-b33e-2a80ba7bc033</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Бискайский залив – крупнейший залив _______ океана</QuestionText>
+		<NodeID>e5999ed8-d269-4c27-b132-22b659be06a8</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Белое море – внутреннее море _______ океана</QuestionText>
+		<NodeID>a30c5f5c-e108-48ab-9a68-b353f9da65b4</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Большие объемы воды, образующиеся в определенных частях океана и отличающиеся друг от друга температурой, соленостью, плотностью, прозрачностью, количеством кислорода и другими свойствами, - это</QuestionText>
+		<NodeID>465d42cc-a83c-4401-8e83-fc3661244bc6</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>_____ — выровненная область подводной окраины материка, примыкающая к суше и характеризующаяся общим с ней геологическим строением</QuestionText>
+		<NodeID>6cb9a54e-820f-4a8e-8f12-b63881140728</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>Бенгальский залив - залив ______ океана</QuestionText>
+		<NodeID>cb8f0045-0ee7-460a-95a7-1015e3cec145</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>______ - совокупность растительных организмов, населяющих толщу воды морских и пресных водоёмов и пассивно переносимых течением</QuestionText>
+		<NodeID>cbf9deaf-9b33-4e11-9b51-7eead5661915</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли определения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Бентос - совокупность организмов, обитающих на грунте и в грунте морских и материковых водоёмов&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Бентос - разнородные, в основном мелкие организмы, свободно дрейфующие в толще воды и не способные сопротивляться течению&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>d6a2af76-a843-47ba-aa63-11b2958f3831</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли определения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Муссоны - устойчивые ветры, периодически меняющие свое направление&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Пассаты - воздушные течения в тропических широтах океанов, сравнительно устойчивые в течение всего года&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>6883bc19-0ad4-4757-a978-a664053c6951</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли определения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Торосы - нагромождение обломков льда, до 10-20 метров в высоту, которые образуются в результате сжатия ледяного покрова&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Торосы - ледник, формирующийся в высоких широтах, где земная поверхность расположена выше снеговой линии&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>9d59c157-4a65-418b-8550-8aa5ff0ec9b5</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Промежуточные водные массы – водные массы, имеющие нижнюю границу в пределах 500-1000 м.&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Промежуточные водные массы – водные массы, имеющие нижнюю границу в пределах 1200-5000 м.&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>7411d1ca-fa64-4663-bf93-d16c5dec98ba</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли определения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) &lt;SPAN style="COLOR: black"&gt;Пассат&lt;/SPAN&gt; -&lt;SPAN style="COLOR: black"&gt; разновидность тропического циклона, которая типична для северо-западной части Тихого океана&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) &lt;SPAN style="COLOR: black"&gt;Тайфун&lt;/SPAN&gt; -&lt;SPAN style="COLOR: black"&gt; разновидность тропического циклона, которая типична для северо-западной части Тихого океана&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>724afe75-ffe4-406d-92c4-8ae7e1da3084</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Индийский океан по площади — третий среди океанов и занимает 75 млн км&lt;SUP&gt;2&lt;/SUP&gt; &lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Атлантический океан по площади — третий среди океанов и занимает 75 млн км&lt;SUP&gt;2&lt;/SUP&gt; &lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>59fcbd49-1d8c-49e8-9419-87aa4550ae7e</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Нектон - разнородные, в основном мелкие организмы, свободно дрейфующие в толще воды и не способные сопротивляться течению&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Планктон - разнородные, в основном мелкие организмы, свободно дрейфующие в толще воды и не способные сопротивляться течению&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>6aee145d-7b0c-450c-bbdf-55366f7999a4</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Фитопланктон - совокупность растительных организмов, населяющих толщу воды морских и пресных водоёмов и пассивно переносимых течением&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Зоопланктон - совокупность растительных организмов, населяющих толщу воды морских и пресных водоёмов и пассивно переносимых течением&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>72ee2405-0839-474f-ac2a-2724d938a053</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Муссон — ветер, который дует на побережье морей и больших озёр&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Бриз — ветер, который дует на побережье морей и больших озёр&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>c8d2ddf8-2b72-47f1-8223-ace06153e530</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Крупные заливы Индийского океана — Бискайский, Гвинейский, Мексиканский, Гудзонов&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Крупные заливы Атлантического океана — Бискайский, Гвинейский, Мексиканский, Гудзонов&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>e0479db6-0dca-498a-a5b2-521798a30b44</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Морской лед - ледник, формирующийся в высоких широтах, где земная поверхность расположена выше снеговой линии&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Покровный ледник - ледник, формирующийся в высоких широтах, где земная поверхность расположена выше снеговой линии&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>1122b6a4-7583-4c56-94c7-713bc926def4</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Тихий океан - самый большой по площади, самый глубокий и самый древний из океанов&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Атлантический океан - самый большой по площади, самый глубокий и самый древний из океанов&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>1c972b3a-d7e3-43f5-8f57-b774d9f91538</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) К вулканическим островам Тихого океана относятся: Сахалин, Японские, Тайвань, Филиппинские, Новая Гвинея, Новая Зеландия&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) К материковым островам Тихого океана относятся: Сахалин, Японские, Тайвань, Филиппинские, Новая Гвинея, Новая Зеландия&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>3f3c0feb-f6a8-4e9f-8463-d99812092a92</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Коралловые острова Северного Ледовитого океана – это многие острова Полинезии и Микронезии&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Коралловые острова Тихого океана – это многие острова Полинезии и Микронезии&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>0d83a3c9-d0a9-416f-a90c-d2854860502b</NodeID>
+	</Question>
+	<Question>
+		<QuestionText>&lt;P class=MsoNormal&gt;Верны ли утверждения?&lt;/P&gt;
+&lt;P class=MsoNormal&gt;А) Куросио, Южно-Пассатное, Японское, Восточно-Австралийское и Северо-тихоокеанское – это теплые течения Тихого океана&lt;/P&gt;
+&lt;P class=MsoNormal&gt;В) Куросио, Южно-Пассатное, Японское, Восточно-Австралийское и Северо-тихоокеанское – это холодные течения Тихого океана&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Подберите правильный ответ&lt;/P&gt;</QuestionText>
+		<NodeID>fc198473-9b6f-4531-9c3d-22848fa0c460</NodeID>
+	</Question>
+</TdsScormData>
